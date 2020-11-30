@@ -1,1 +1,13 @@
 
+header{
+    background-color: burlywood;
+    padding: 40px;
+    text-align: center;
+}
+h1{ 
+    font-size: 90xp;
+    color:white;
+}
+header img{
+    border-radius: 150xp;
+    width:150xp;
