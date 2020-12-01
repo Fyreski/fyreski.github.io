@@ -1,6 +1,6 @@
 html, body{
     font-family: Arial, sans-serif;
-    margin= 0;
+    margin: 0;
 }
 header{
     background-color: #9DC3C2;
@@ -8,7 +8,7 @@ header{
     text-align: center;
 }
 h1{ 
-    font-size: 90xp;
+    font-size: 90px;
     color:white;
 }
 header img{
@@ -16,6 +16,40 @@ header img{
     width: 300px;
     border: 15px solid #a47e1b;
 }
-        /*<header>
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+img.big-image{
+    max-width: 100%;
+}
+p.caption{
+    font-size: 16px;
+    color: lightgrey;
+    font-style: italic;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+footer{
+    margin-top: 20px;
+    padding: 40px 20px;
+    background-color:#a47e1b ;
+}
+ul{
+    text-align: center;
+}
+footer ul li{
+    display: inline;
+    margin: 0 5px;
+}
+/*<header>
 <img src="img/profile.jpg">
             <h1>Luxana from League of Legends</h1>
