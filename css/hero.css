@@ -9,8 +9,9 @@ h1{
     color:white;
 }
 header img{
-    border-style: solid;
-  border-width: 5px;
+    border-radius: 150px;
+    width:300xp;
+    border: 10px solid #CC0000;
 }
         /*<header>
 <img src="img/profile.jpg">
