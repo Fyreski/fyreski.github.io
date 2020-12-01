@@ -1,4 +1,6 @@
-
+html, body{
+    font-family: Arial, sans-serif;
+}
 header{
     background-color: #9DC3C2;
     padding: 40px;
