@@ -1,6 +1,6 @@
 
 header{
-    background-color: burlywood;
+    background-color: #9DC3C2;
     padding: 40px;
     text-align: center;
 }
@@ -9,9 +9,9 @@ h1{
     color:white;
 }
 header img{
-    border-radius: 150px;
-    width:300px;
-    border: 10px solid #CC0000;
+    border-radius: 700px;
+    width: 300px;
+    border: 15px solid #a47e1b;
 }
         /*<header>
 <img src="img/profile.jpg">
