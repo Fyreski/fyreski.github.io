@@ -11,7 +11,7 @@ h1{
 header img{
     border-radius: 150xp;
     width:300xp;
-}
-/*<header>
+    border: 10xp solid #FF0000
+        /*<header>
 <img src="img/profile.jpg">
             <h1>Luxana from League of Legends</h1>
