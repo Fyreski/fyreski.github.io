@@ -9,9 +9,9 @@ h1{
     color:white;
 }
 header img{
-    border-radius: 150xp;
-    width:300xp;
-    border: 10xp solid #FF0000
+    border-style: solid;
+  border-width: 5px;
+}
         /*<header>
 <img src="img/profile.jpg">
             <h1>Luxana from League of Legends</h1>
